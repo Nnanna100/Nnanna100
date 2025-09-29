@@ -46,7 +46,7 @@ Background: PhD biophysics (galvanotaxis, Fokker–Planck, MLE), **defense T&E**
   Repo → https://github.com/Nnanna100/voice-agent-eval-harness
 
 ---
-
+<!--
 ## Results (TL;DR) — example pattern to use in each repo
 | Metric | Baseline | This repo | Δ |
 |---|---:|---:|---:|
@@ -55,16 +55,16 @@ Background: PhD biophysics (galvanotaxis, Fokker–Planck, MLE), **defense T&E**
 | Latency p95 (ms, ↓) | 820 | 690 | −130 |
 
 > Keep numbers truthful; if you don’t have baselines yet, state what the table will show when the pipeline is run.
-
+-->
 ---
-
+<!--
 ## Reproducibility & project hygiene (how my repos are structured)
 - `environment.yml` or `requirements.txt` (pinned versions)  
 - **One-command run:** `make run` → regenerates a figure/report into `figures/` or `reports/`  
 - `src/` (typed, docstrings) · `notebooks/` (export plots) · `tests/` (at least 1 smoke test)  
 - CI badge (GitHub Actions) that runs tests on push · fixed random seeds  
 - Data: synthetic/de-identified; no PHI/PII checked in
-
+-->
 ---
 
 ## Quick links
@@ -73,13 +73,13 @@ Background: PhD biophysics (galvanotaxis, Fokker–Planck, MLE), **defense T&E**
 - Talk slides / demos — <link>
 
 ---
-
+<!--
 ### Notes for reviewers
 If you’re skimming: start with **Physical-limits-on-galvanotaxis** (one-command repro), then open **ai-evaluation-playbook** for the generalized eval harness philosophy I use on AI systems.
-
+-->
+<!--
 ## Hi there 👋
 
-<!--
 **Nnanna100/Nnanna100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
