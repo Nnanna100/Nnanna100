@@ -1,3 +1,82 @@
+# Ifunanya Nwogbaga — AI Evaluation & Applied Modeling
+
+I build **evaluation systems** that expose real failure modes in AI and ship **reproducible, decision-grade** analytics.  
+Background: PhD biophysics (galvanotaxis, Fokker–Planck, MLE), **defense T&E** (SPY-6), and **health-data** pipelines.
+
+**Focus:** AI evaluation • stochastic/dynamical systems • health/defense analytics  
+**Contact:** <your.email@domain> · [LinkedIn](<link>) · [Google Scholar](<link>)
+
+---
+
+## Highlights (impact)
+- Designed red-team/eval suites surfacing **≥75% failure** on multi-step reasoning; created **release quality gates**.
+- Delivered **clean ingestion → labeling → bias/eval** health pipelines with ablations and reproducible reports.
+- Published paper-backed simulations of cellular electrotaxis (Soft Matter, Phys. Rev. E, Biophysical Journal); open, runnable code.
+
+---
+
+## What I’m working on now
+- **AI Evaluation Playbook**: YAML task specs → runs → **HTML failure taxonomy** (goal completion, handoff rate, latency, WER).
+- **Voice-Agent Eval Harness**: synthetic call generator + ASR/LLM policy toggles + p95 latency & $/successful task.
+- **EHR ML Pipeline (synthetic)**: HIPAA-style data flow with **bias checks** and one-command reproducibility.
+
+---
+
+## Featured repositories
+> Tip: keep this list to 5–6 and ensure each repo has a `Results (TL;DR)` table and a one-command run path.
+
+- **Cell-shape-and-orientation-control-galvanotactic-accuracy** — Soft Matter companion  
+  *One-command repro of a key figure + demo video; shows shape-dependent sensing logic.*  
+  Repo → https://github.com/Nnanna100/Cell-shape-and-orientation-control-galvanotactic-accuracy
+
+- **Physical-limits-on-galvanotaxis** — Phys. Rev. E companion  
+  *MLE + Fokker–Planck inference demo; includes an ablation table and a smoke test.*  
+  Repo → https://github.com/Nnanna100/Physical-limits-on-galvanotaxis
+
+- **Keratocyte-dynamics (Biophys J companion)**  
+  *Oscillation vs circling boundary; reproducible plot + short mp4/GIF.*  
+  Repo → https://github.com/Nnanna100/<repo-slug>
+
+- **ai-evaluation-playbook** *(in progress)*  
+  *Reusable harness for task specs → eval → HTML report with failure taxonomy.*  
+  Repo → https://github.com/Nnanna100/ai-evaluation-playbook
+
+- **voice-agent-eval-harness** *(in progress)*  
+  *Streaming simulator (ASR → LLM → tool → TTS) with word-timestamps, barge-in metrics, and cost/latency dashboard.*  
+  Repo → https://github.com/Nnanna100/voice-agent-eval-harness
+
+---
+
+## Results (TL;DR) — example pattern to use in each repo
+| Metric | Baseline | This repo | Δ |
+|---|---:|---:|---:|
+| Orientation error (deg, ↓) | 23.1 | 17.4 | −5.7 |
+| Handoff rate (pp, ↓) | 32.0 | 18.5 | −13.5 |
+| Latency p95 (ms, ↓) | 820 | 690 | −130 |
+
+> Keep numbers truthful; if you don’t have baselines yet, state what the table will show when the pipeline is run.
+
+---
+
+## Reproducibility & project hygiene (how my repos are structured)
+- `environment.yml` or `requirements.txt` (pinned versions)  
+- **One-command run:** `make run` → regenerates a figure/report into `figures/` or `reports/`  
+- `src/` (typed, docstrings) · `notebooks/` (export plots) · `tests/` (at least 1 smoke test)  
+- CI badge (GitHub Actions) that runs tests on push · fixed random seeds  
+- Data: synthetic/de-identified; no PHI/PII checked in
+
+---
+
+## Quick links
+- Papers: Soft Matter (2024) · Phys. Rev. E (2023) · Biophysical Journal (2023) — add DOIs here
+- CV / Resume — <link>
+- Talk slides / demos — <link>
+
+---
+
+### Notes for reviewers
+If you’re skimming: start with **Physical-limits-on-galvanotaxis** (one-command repro), then open **ai-evaluation-playbook** for the generalized eval harness philosophy I use on AI systems.
+
 ## Hi there 👋
 
 <!--
