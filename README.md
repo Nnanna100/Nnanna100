@@ -25,9 +25,9 @@ Background: PhD in Theoretical Biophysics (stochastic systems, MLE, information 
 -->
 ## Featured repositories
 
-- **Traffic Data** *(in progress)*  
-  *Reusable harness for task specs → eval → HTML report with failure taxonomy.*  
-  Repo → https://github.com/Nnanna100/ai-evaluation-playbook
+- **Predicting Short Term Traffic Delays** *(in progress)*  
+  *Data science group project using neural networks.*  
+  Repo → https://github.com/Erdos-Projects/fall-2025-predicting-short-term-traffic-delays
 
 - **Cell-shape-and-orientation-control-galvanotactic-accuracy** — Soft Matter companion  
   *One-command repro of a key figure + demo video; shows shape-dependent sensing logic.*  
@@ -40,10 +40,6 @@ Background: PhD in Theoretical Biophysics (stochastic systems, MLE, information 
 - **Keratocyte-dynamics (Biophys J companion)**  
   *Oscillation vs circling boundary; reproducible plot + short mp4/GIF.*  
   Repo → https://github.com/Nnanna100/<repo-slug>
-
-- **voice-agent-eval-harness** *(in progress)*  
-  *Streaming simulator (ASR → LLM → tool → TTS) with word-timestamps, barge-in metrics, and cost/latency dashboard.*  
-  Repo → https://github.com/Nnanna100/voice-agent-eval-harness
 
 ---
 <!--
