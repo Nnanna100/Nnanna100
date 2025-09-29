@@ -65,7 +65,7 @@ Background: PhD in Theoretical Biophysics (stochastic systems, MLE, information 
 
 ## Quick links
 - BioRXiv (2025): https://doi.org/10.1101/2025.04.09.647627 
-- Soft Matter (2024): doi.org/10.1039/d4sm00952e
+- Soft Matter (2024): https://doi.org/10.1039/d4sm00952e
 - Phys. Rev. E (2023): https://doi.org/10.1103/PhysRevE.108.064411
 - Biophysical Journal (2023): https://doi.org/10.1016/j.bpj.2022.11.021
 
