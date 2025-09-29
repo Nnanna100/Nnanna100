@@ -10,7 +10,7 @@ Background: PhD in Theoretical Biophysics (stochastic systems, MLE, information 
 
 ## Highlights (impact)
 - Designed training data for LLMs, surfacing **≥75% failure** on multi-step reasoning; created **gold standard rubrics**.
-- Delivered **clean ingestion → labeling → bias/eval** health pipelines with ablations and reproducible reports.
+- Built **end-to-end health-data pipelines**, from intake and labeling to bias checks and model evaluation, with ablation studies and auto-generated, reproducible reports.
 - Published paper-backed simulations of cellular electrotaxis (Soft Matter, Phys. Rev. E, Biophysical Journal); open, runnable code.
 
 <!--
