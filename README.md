@@ -30,11 +30,11 @@ Background: PhD in Theoretical Biophysics (stochastic systems, MLE, information 
   Repo → https://github.com/Erdos-Projects/fall-2025-predicting-short-term-traffic-delays
 
 - **Cell-shape-and-orientation-control-galvanotactic-accuracy** Soft Matter Journal companion  
-  *One-command repro of a key figure + demo video; shows shape-dependent sensing logic.*  
+  *One-command repro of a key figure; shows shape-dependent sensing logic.*  
   Repo → https://github.com/Nnanna100/Cell-shape-and-orientation-control-galvanotactic-accuracy
 
 - **Physical-limits-on-galvanotaxis** Phys. Rev. E companion  
-  *MLE + Fokker–Planck inference demo; includes an ablation table and a smoke test.*  
+  *MLE + Fokker–Planck inference demo.*  
   Repo → https://github.com/Nnanna100/Physical-limits-on-galvanotaxis
 
 - **Keratocyte-dynamics** Biophysical Journal companion
