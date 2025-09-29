@@ -4,7 +4,7 @@ I build **evaluation systems** that expose real failure modes in AI and ship **r
 Background: PhD biophysics (galvanotaxis, Fokker–Planck, MLE), **defense T&E** (SPY-6), and **health-data** pipelines.
 
 **Focus:** AI evaluation • stochastic/dynamical systems • health/defense analytics  
-**Contact:** <your.email@domain> · [LinkedIn](<link>) · [Google Scholar](<link>)
+**Contact:** <inwogba1@alumni.jh.edu> · [LinkedIn](<https://www.linkedin.com/in/ifunanya-nwogbaga-phd/>) · [Google Scholar](<https://scholar.google.com/citations?user=IQKczu8AAAAJ&hl=en&oi=ao>)
 
 ---
 
