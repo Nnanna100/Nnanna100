@@ -1,7 +1,7 @@
 # Ifunanya Nwogbaga — AI Evaluation & Applied Modeling
 
 I build **evaluation systems** that expose real failure modes in AI and ship **reproducible, decision-grade** analytics.  
-Background: PhD biophysics (galvanotaxis, Fokker–Planck, MLE), **defense T&E** (SPY-6), and **health-data** pipelines.
+Background: PhD in Theoretical Biophysics (stochastic systems, MLE, information theory), **defense T&E** (radar), and **health-data** pipelines.
 
 **Focus:** AI evaluation • stochastic/dynamical systems • health/defense analytics  
 **Contact:** <inwogba1@alumni.jh.edu> · [LinkedIn](<https://www.linkedin.com/in/ifunanya-nwogbaga-phd/>) · [Google Scholar](<https://scholar.google.com/citations?user=IQKczu8AAAAJ&hl=en&oi=ao>)
@@ -9,10 +9,11 @@ Background: PhD biophysics (galvanotaxis, Fokker–Planck, MLE), **defense T&E**
 ---
 
 ## Highlights (impact)
-- Designed red-team/eval suites surfacing **≥75% failure** on multi-step reasoning; created **release quality gates**.
+- Designed training data for LLMs, surfacing **≥75% failure** on multi-step reasoning; created **gold standard rubrics**.
 - Delivered **clean ingestion → labeling → bias/eval** health pipelines with ablations and reproducible reports.
 - Published paper-backed simulations of cellular electrotaxis (Soft Matter, Phys. Rev. E, Biophysical Journal); open, runnable code.
 
+<!--
 ---
 
 ## What I’m working on now
@@ -21,9 +22,12 @@ Background: PhD biophysics (galvanotaxis, Fokker–Planck, MLE), **defense T&E**
 - **EHR ML Pipeline (synthetic)**: HIPAA-style data flow with **bias checks** and one-command reproducibility.
 
 ---
-
+-->
 ## Featured repositories
-> Tip: keep this list to 5–6 and ensure each repo has a `Results (TL;DR)` table and a one-command run path.
+
+- **Traffic Data** *(in progress)*  
+  *Reusable harness for task specs → eval → HTML report with failure taxonomy.*  
+  Repo → https://github.com/Nnanna100/ai-evaluation-playbook
 
 - **Cell-shape-and-orientation-control-galvanotactic-accuracy** — Soft Matter companion  
   *One-command repro of a key figure + demo video; shows shape-dependent sensing logic.*  
@@ -36,10 +40,6 @@ Background: PhD biophysics (galvanotaxis, Fokker–Planck, MLE), **defense T&E**
 - **Keratocyte-dynamics (Biophys J companion)**  
   *Oscillation vs circling boundary; reproducible plot + short mp4/GIF.*  
   Repo → https://github.com/Nnanna100/<repo-slug>
-
-- **ai-evaluation-playbook** *(in progress)*  
-  *Reusable harness for task specs → eval → HTML report with failure taxonomy.*  
-  Repo → https://github.com/Nnanna100/ai-evaluation-playbook
 
 - **voice-agent-eval-harness** *(in progress)*  
   *Streaming simulator (ASR → LLM → tool → TTS) with word-timestamps, barge-in metrics, and cost/latency dashboard.*  
